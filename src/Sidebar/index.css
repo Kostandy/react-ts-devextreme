@@ -1,0 +1,12 @@
+.Sidebar ul {
+  list-style: none;
+  padding: 0;
+}
+
+.Sidebar nav {
+  padding: 0;
+}
+
+.Sidebar h2 {
+  text-align: center;
+}
